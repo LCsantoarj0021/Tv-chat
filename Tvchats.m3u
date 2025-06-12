@@ -24,9 +24,11 @@ https://media-hls.doppiocdn.org/b-hls-14/41469548/41469548_720p.m3u8?playlistTyp
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme11.png" group-title="Stripchat", Brunalissa
 https://media-hls.doppiocdn.org/b-hls-02/34437295/34437295_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme12.png" group-title="Stripchat", AgathaBladee
-https://media-hls.doppiocdn.org/b-hls-13/189295697/189295697_720p.m3u8
+https://media-hls.doppiocdn.org/b-hls-13/189295697/189295697_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme13.png" group-title="Stripchat", BigFineSelena
 https://media-hls.doppiocdn.org/b-hls-27/82653353/82653353_960p.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme14.png" group-title="Stripchat", Zoey_it
+https://media-hls.doppiocdn.org/b-hls-10/152065559/152065559_720p.m3u8?playlistType=lowLatency
 
 ############ Chaturbate ############
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie1.png" group-title="Chaturbate", muriel_belovv
