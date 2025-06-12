@@ -1,0 +1,19 @@
+#EXTM3U
+
+############ Stripchat ############
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme1.png" group-title="FILMES", Filme Ação 1
+https://exemplo.com/filme1.m3u8
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme2.png" group-title="FILMES", Filme Comédia 2
+https://exemplo.com/filme2.m3u8
+
+############ Chaturbate ############
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie1.png" group-title="SÉRIES", Série Fantasia Ep 1
+https://exemplo.com/serie1.m3u8
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie2.png" group-title="SÉRIES", Série Suspense Ep 2
+https://exemplo.com/serie2.m3u8
+
+############ Cam4 ############
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_xxx1.png" group-title="XXX", Canal Adulto 1
+https://edge7-gru.live.mmcdn.com/live-hls/amlst:superbdolls-sd-aad2a291539119f292a34d86d2978d207dd03db19575fbd51a96ea927a7d9923_trns_h264/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_xxx2.png" group-title="XXX", Canal Adulto 2
+https://exemplo.com/adulto2.m3u8
