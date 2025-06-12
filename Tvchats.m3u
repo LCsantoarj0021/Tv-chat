@@ -3,13 +3,13 @@
 ############ Stripchat ############
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme1.png" group-title="FILMES", Filme Ação 1
 https://exemplo.com/filme1.m3u8
-#EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme2.png" group-title="FILMES", Filme Comédia 2
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme2.png" group-title="FILMES", Filme Ação 2
 https://exemplo.com/filme2.m3u8
 
 ############ Chaturbate ############
-#EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie1.png" group-title="SÉRIES", Série Fantasia Ep 1
-https://exemplo.com/serie1.m3u8
-#EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie2.png" group-title="SÉRIES", Série Suspense Ep 2
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie1.png" group-title="SÉRIES", Série muriel_belovv Ep 1
+https://edge10-bog.live.mmcdn.com/live-hls/amlst:muriel_belovv-sd-37d2a4d72329e0bbec17b1b2de6ffca467eb379623cd8aff511ed7a98bad3e9c_trns_h264/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie2.png" group-title="SÉRIES", Série Fantasia Ep 2
 https://exemplo.com/serie2.m3u8
 
 ############ Cam4 ############
