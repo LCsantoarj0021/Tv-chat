@@ -1,19 +1,21 @@
 #EXTM3U
 
 ############ Stripchat ############
-#EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme1.png" group-title="FILMES", Filme Ação 1
-https://exemplo.com/filme1.m3u8
-#EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme2.png" group-title="FILMES", Filme Ação 2
-https://exemplo.com/filme2.m3u8
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme1.png" group-title="Stripchat", Escarlate4you_
+https://edge-hls.doppiocdn.org/hls/135025939/master/135025939_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme2.png" group-title="Stripchat", Bellydancerhot
+https://edge-hls.doppiocdn.org/hls/64373566/master/64373566_auto.m3u8?playlistType=lowLatency
 
 ############ Chaturbate ############
-#EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie1.png" group-title="SÉRIES", Série muriel_belovv Ep 1
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie1.png" group-title="Chaturbate", muriel_belovv
 https://edge10-bog.live.mmcdn.com/live-hls/amlst:muriel_belovv-sd-37d2a4d72329e0bbec17b1b2de6ffca467eb379623cd8aff511ed7a98bad3e9c_trns_h264/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie2.png" group-title="SÉRIES", Série Fantasia Ep 2
-https://exemplo.com/serie2.m3u8
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie2.png" group-title="Chaturbate", odalisca_bellydancer
+https://edge13-gru.live.mmcdn.com/live-hls/amlst:odalisca_bellydancer-sd-d4f9044a7fb01903b7b0b8fa68a79b5eedbd028b7bbca3f9f350634683682fa9_trns_h264/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie3.png" group-title="Chaturbate", na_ta777
+https://edge17-mia.live.mmcdn.com/live-hls/amlst:na_ta777-sd-f56f5ba54d0da5a29f6ad76bdecc812908a10db13099dcd7f44fbb44202e67d4_trns_h264/playlist.m3u8
 
 ############ Cam4 ############
-#EXTINF:-1 tvg-logo="https://exemplo.com/logo_xxx1.png" group-title="XXX", Canal Adulto 1
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_xxx1.png" group-title="Cam4", Superbdolls
 https://edge7-gru.live.mmcdn.com/live-hls/amlst:superbdolls-sd-aad2a291539119f292a34d86d2978d207dd03db19575fbd51a96ea927a7d9923_trns_h264/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://exemplo.com/logo_xxx2.png" group-title="XXX", Canal Adulto 2
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_xxx2.png" group-title="Cam4", Outro Canal Exemplo
 https://exemplo.com/adulto2.m3u8
