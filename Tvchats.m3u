@@ -75,3 +75,11 @@ https://edge7-bog.live.mmcdn.com/live-edge/amlst:millabelle-sd-15f5c18735ae000ed
 https://stackvaults-hls.xcdnpro.com/470468e8-a707-4cf4-a0fd-85a21732d9d4/hls/as+f54514e2-bd4a-4767-bd0d-51da1d579616/index.m3u8
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_xxx2.png" group-title="Cam4", Escarlate4you_
 https://cam4-hls.xcdnpro.com/320/cam4-origin-live/laviniadesimoes-320-61938296-0014-416e-9259-e307465c8953_aac/chunklist.m3u8
+
+############ Filmes ############
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_velozes10.png" group-title="Filmes", Ótima foda gordinha
+https://video-nss.xhcdn.com/EXZNKPWa9ZhovnxTWmYMgw==,1749798000/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:/014/258/206/720p.av1.mp4/init-v1-a1.mp4
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_avatar2.png" group-title="Filmes", Avatar 2
+https://meuservidor.com/filmes/avatar2.m3u8
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_johnwick4.png" group-title="Filmes", John Wick 4
+https://meuservidor.com/filmes/johnwick4.m3u8
