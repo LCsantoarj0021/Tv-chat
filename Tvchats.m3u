@@ -76,10 +76,10 @@ https://stackvaults-hls.xcdnpro.com/470468e8-a707-4cf4-a0fd-85a21732d9d4/hls/as+
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_xxx2.png" group-title="Cam4", Escarlate4you_
 https://cam4-hls.xcdnpro.com/320/cam4-origin-live/laviniadesimoes-320-61938296-0014-416e-9259-e307465c8953_aac/chunklist.m3u8
 
-############ Filmes ############
-#EXTINF:-1 tvg-logo="https://exemplo.com/logo_Ótimafodagordinha.png" group-title="Filmes", Ótima foda gordinha
+############ Filmes+18 ############
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_Filmes+18.png" group-title="Filmes", Ótima foda gordinhaa
 https://video-nss.xhcdn.com/EXZNKPWa9ZhovnxTWmYMgw==,1749798000/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:/014/258/206/720p.av1.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://exemplo.com/logo_amadrastagostadelevarnocu.png" group-title="Filmes", a madrasta gosta de levar no cu
-https://t9lr3d.cfglobalcdn.com/silverlight/secip/118553/271484/bK5zoDw6AIhXT3Vcadq-IQ/MjgwNDo3YzQwOjNhNzpmMjAwOmJjNzg6YmM5MDpiYTFlOmFmNzA=/1749807863/hls-vod-s0011/flv/api/files/videos/2025/06/12/1749695087vr8ku.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_Filmes+18.png" group-title="Filmes", a madrasta gosta de levar no cu
+https://t9lr3d.cfglobalcdn.com/silverlight/secip/118553/271484/bRdMdwN615NZFlHx2W9YeQ/MjgwNDo3YzQwOjNhNzpmMjAwOmJjNzg6YmM5MDpiYTFlOmFmNzA=/1749808175/hls-vod-s0011/flv/api/files/videos/2025/06/12/1749695087vr8ku.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_johnwick4.png" group-title="Filmes", John Wick 4
 https://meuservidor.com/filmes/johnwick4.m3u8
