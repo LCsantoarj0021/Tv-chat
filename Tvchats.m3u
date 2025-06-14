@@ -53,6 +53,8 @@ https://media-hls.doppiocdn.org/b-hls-22/129690074/129690074.m3u8?playlistType=l
 https://edge-hls.doppiocdn.net/hls/147010884/master/147010884_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme26.png" group-title="Stripchat", HotSweetAngel
 https://edge-hls.doppiocdn.org/hls/17094/master/17094_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://exemplo.com/logo_filme27.png" group-title="Stripchat", kataryna69
+https://edge-hls.doppiocdn.org/hls/54674458/master/54674458_auto.m3u8?playlistType=lowLatency
 
 ############ Chaturbate ############
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie1.png" group-title="Chaturbate", muriel_belovv
