@@ -84,7 +84,9 @@ https://edge-hls.doppiocdn.org/hls/109040884/master/109040884_auto.m3u8?playlist
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/5/f/e5f61fa0623140dceabed936ede11ed8-full" group-title="Stripchat", Meganlola
 https://edge-hls.doppiocdn.org/hls/89199270/master/89199270_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/b/9/6b97497463edd18504b92a7146cc1383-full" group-title="Stripchat", Cammiila
-https://edge-hls.doppiocdn.org/hls/32605883/master/32605883_auto.m3u8?playlistType=lowLatency
+https://edge-hls.doppiocdn.org/hls/3260588/32605883/master/32605883_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/0/d/30dd6992ea1d64ddf5d23568a2e44755-full" group-title="Stripchat", Selenna01
+https://media-hls.doppiocdn.org/b-hls-07/51155911/51155911.m3u8?playlistType=lowLatency
 
 ############ Chaturbate ############
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie1.png" group-title="Chaturbate", muriel_belovv x
