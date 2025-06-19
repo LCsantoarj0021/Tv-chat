@@ -109,6 +109,8 @@ https://edge-hls.doppiocdn.org/hls/96668230/master/96668230_auto.m3u8?playlistTy
 https://edge-hls.doppiocdn.org/hls/65692631/master/65692631_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/d/a/dda4e35c26430fc74291cfb661908e0c-full" group-title="Stripchat", ninapego
 https://edge-hls.doppiocdn.org/hls/135943128/master/135943128_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/8/d/c8d3fb3d858adebe61b2e75805c21bb5-full" group-title="Stripchat", LittleMissEeve
+https://edge-hls.doppiocdn.org/hls/44927537/master/44927537_auto.m3u8?playlistType=lowLatency
 
 ############ Chaturbate ############
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_serie1.png" group-title="Chaturbate", muriel_belovv x
