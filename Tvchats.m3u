@@ -128,6 +128,9 @@ https://edge-hls.doppiocdn.org/hls/157523783/master/157523783_auto.m3u8?playlist
 #EXTINF:-1 tvg-logo="Links das imagens" group-title="Adulto", MorenaDomina
 https://v2.erome.com/4186/vpsiiBd3/jPkbrfjC_720p.mp4
 
+#EXTINF:-1 tvg-logo="Links das imagens" group-title="Adulto", MorenaDomina2
+https://v2.erome.com/4186/vpsiiBd3/YnUKxkIl_720p.mp4
+
 ############ LiveJogos ############
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_LIVESJOGOS.png" group-title="LiveJogos", Fusion88
 https://tinyurl.com/Fusion88
