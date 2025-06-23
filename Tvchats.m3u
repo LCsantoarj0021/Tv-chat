@@ -123,6 +123,12 @@ https://edge-hls.doppiocdn.org/hls/64914726/master/64914726_auto.m3u8?playlistTy
 https://edge-hls.doppiocdn.org/hls/157523783/master/157523783_auto.m3u8?playlistType=lowLatency
 
 
+#######################
+# Adulto (streams públicos legais)
+#######################
+
+#EXTINF:-1 tvg-id="adult1" tvg-name=" Morenadomina
+https://v2.erome.com/4186/vpsiiBd3/jPkbrfjC_720p.mp4
 
 ############ LiveJogos ############
 #EXTINF:-1 tvg-logo="https://exemplo.com/logo_LIVESJOGOS.png" group-title="LiveJogos", Fusion88
