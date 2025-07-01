@@ -123,6 +123,8 @@ https://edge-hls.doppiocdn.org/hls/64914726/master/64914726_auto.m3u8?playlistTy
 https://edge-hls.doppiocdn.org/hls/157523783/master/157523783_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/a/f/5afd164a5674f366e0e000b691a23b52-full" group-title="Stripchat", MissMaria
 https://edge-hls.doppiocdn.org/hls/15454846/master/15454846_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="Links das imagens" group-title="Stripchat", emilyvalenca
+https://edge-hls.doppiocdn.net/hls/13259903/master/13259903_auto.m3u8?playlistType=lowLatency
 
 ############ Adulto ############
 
