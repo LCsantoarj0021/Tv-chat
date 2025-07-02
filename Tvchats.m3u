@@ -127,6 +127,8 @@ https://edge-hls.doppiocdn.org/hls/15454846/master/15454846_auto.m3u8?playlistTy
 https://edge-hls.doppiocdn.net/hls/13259903/master/13259903_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/b/c/4bc3f3ba2e0656d38bfc30f2948e0ad3-full" group-title="Stripchat", xXXSexyamazon
 https://media-hls.doppiocdn.org/b-hls-24/69644625/69644625.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/7/c/47cf22f812290df3f5dd9ec693ebc866-full" group-title="Stripchat", LexiieGrey
+https://edge-hls.doppiocdn.org/hls/115029020/master/115029020_auto.m3u8?playlistType=lowLatency
 
 ############ Adulto ############
 
