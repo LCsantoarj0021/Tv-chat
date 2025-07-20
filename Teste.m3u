@@ -47,11 +47,8 @@ https://cwseed-lh.akamaihd.net/i/cwseed_1@123456/master.m3u8
 https://netflix.com/stream/playlist.m3u8
 
 #######################
-# Adulto (streams públicos legais)
+# Séries
 #######################
 
-#EXTINF:-1 tvg-id="adult1" tvg-name="Adult Swim" group-title="Adulto",Adult Swim (Animação para adultos)
-https://adultswim-hls.cdn.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="hustler" tvg-name="Hustler TV" group-title="Adulto",Hustler TV (canal adulto - se disponível)
-https://hustlercdn.com/stream/hustler.m3u8
+#EXTINF:-1 tvg-id="series1" tvg-name="CW Seed" group-title="Séries",CW Seed (Séries e Shows)
+https://cwseed-lh.
