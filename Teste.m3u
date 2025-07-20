@@ -50,39 +50,76 @@ https://netflix.com/stream/playlist.m3u8
 # Conto da Aia-Temporada 1
 #######################
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 1
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 1
 https://akm-cdn-play-web.onfilom.com/20790e6916a071f0904c4177d1c10102/43d475b7659d48ae96a152039fc4ba1c-2f3b1cbeefd84d79a3d909c169afb3b7-sd.m3u8?hdnts=exp=1753122832_acl=/20790e6916a071f0904c4177d1c10102/*_hmac=219733a5853a7fa920bd54b19cbd693d952701dad7abed32b1559003f922bbce
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 2
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 2
 https://akm-cdn-play-web.onfilom.com/50a4446916a071f0a56c5114c0db0102/6aed2bfd40f64d25924fde1d7ffacccc-945a743297812c12fec9cbad58eb5cf9-sd.m3u8?hdnts=exp=1753125145_acl=/50a4446916a071f0a56c5114c0db0102/*_hmac=6494f7c64a7924fc6aec8d93dfa5cd86eeff004f25f23797b09331dcc01ce28c
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 3
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 3
 https://akm-cdn-play-web.onfilom.com/905ced6816a071f0bfaf87c7361c0102/a8729e637cb74385a807af6b480813e5-ea315e45091f08908f384e8db11e8fb6-sd.m3u8?hdnts=exp=1753123733_acl=/905ced6816a071f0bfaf87c7361c0102/*_hmac=b1f5c801d21667bffe432549d11d0eb11f20f4a25ea2087877fd6a123a735eb4
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 4
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 4
 https://akm-cdn-play-web.onfilom.com/001be76816a071f0800386c6360c0102/75a06dd33e43449da0892eba79b9016f-c211eacd8d0b0aa7a265f5213074855f-sd.m3u8?hdnts=exp=1753105701_acl=/001be76816a071f0800386c6360c0102/*_hmac=80f569773d3c690d61a86b66ec611a9193132b8b6769bbffe70d80a94d0047e4
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 5
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 5
 https://akm-cdn-play-web.onfilom.com/c00de46816a071f0bf9587c7371d0102/82c0fcd0bea44c2aaab933e4ac2ae8e7-0077ceaf9b2a349a58b1eb1d95ad4edc-sd.m3u8?hdnts=exp=1753084597_acl=/c00de46816a071f0bf9587c7371d0102/*_hmac=ea8bfda50d43e8d80506d9953a5e9f763579ec318af88d137a7360655a410aaa
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 6
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 6
 https://akm-cdn-play-web.onfilom.com/805ad26816a071f0800386c6360c0102/7c346c370fdd497d98cfff80e3183db5-85e7bb5d5e334ad827b315be69d2f259-sd.m3u8?hdnts=exp=1753109930_acl=/805ad26816a071f0800386c6360c0102/*_hmac=8d47ef72c230c59cbb432df35583d2384cdd96415242f038b808d056c53328ad
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 7
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 7
 https://akm-cdn-play-web.onfilom.com/6007efbc16a271f0bfc436a5e8aa0102/9bf32759ba3a4cc9ab8daac82d4376cf-3e001c96142b8041fd3daf851e684130-sd.m3u8?hdnts=exp=1753113135_acl=/6007efbc16a271f0bfc436a5e8aa0102/*_hmac=69edc27ca6782c38abe3a3d60e995684108fc8f50aaef484dfdb76482fe604c8
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 8
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 8
 https://akm-cdn-play-web.onfilom.com/902eb4c816a271f0bff24177d1c00102/451974a08b76450cb9ac030602e26875-becbeb1b6f8cab7cbdc5da7402779ba7-sd.m3u8?hdnts=exp=1753107123_acl=/902eb4c816a271f0bff24177d1c00102/*_hmac=e264105724be3e859a23616816b7dea09f1425eb0b5070543cfdca1b10d75957
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 9
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 9
 https://akm-cdn-play-web.onfilom.com/00baf4c816a271f0bfbb87c6371c0102/9fdc753e355c4798a22d72ad65bcd49d-6d23d1fd824a8ac8b656eab02a2ef1bb-sd.m3u8?hdnts=exp=1753108613_acl=/00baf4c816a271f0bfbb87c6371c0102/*_hmac=e17d384953570d0bd33eca8debbd0e2fbfc86307763d878c219e0c4ed03974de
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 10
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 10
 https://akm-cdn-play-web.onfilom.com/a0b93de016a271f0bfaf87c7361c0102/6eef10fcbe0041bdba6130cc2e2ba671-906b38588677fc8fd398621ba1316827-sd.m3u8?hdnts=exp=1753111802_acl=/a0b93de016a271f0bfaf87c7361c0102/*_hmac=08438722ee7e95ee76ff6a7350bc675cc39f271913c1654337df358412d42011
 
+#######################
+# Conto da Aia-Temporada 2
+#######################
 
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 2" tvg-name="Conto da Aia-Temporada 2" group-title="Séries", Temporada 2 episódio 1
+https://akm-cdn-play-web.onfilom.com/206c371e16ac71f0bfdd2680f9ea0102/514deb15c139453d9a6594e95e164dc5-a3c2e7aab3da81102e1657647e5069c3-sd.m3u8?hdnts=exp=1753125155_acl=/206c371e16ac71f0bfdd2680f9ea0102/*_hmac=975629d37d9ee432d2d781b89aedad4cd83e63ddd6cc9495cf8bfe1e40207579
 
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 2" tvg-name="Conto da Aia-Temporada 2" group-title="Séries", Temporada 2 episódio 2
+https://akm-cdn-play-web.onfilom.com/502d551e16ac71f0b18097c6360c0102/6a539cad431a43dd8490f0d5d904fad2-7280c278876ef1a186cb95137b9f63a1-sd.m3u8?hdnts=exp=1753115313_acl=/502d551e16ac71f0b18097c6360c0102/*_hmac=a64be3194bbec2cb9f827444eae42b2ce4ca04c9486baf56a30d237ad055335f
 
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 2" tvg-name="Conto da Aia-Temporada 2" group-title="Séries", Temporada 2 episódio 3
+https://akm-cdn-play-web.onfilom.com/f0493e1e16ac71f0bf9587c7371d0102/1144187a491147748fc1ee35259db419-2f597067aaf2568079231a9a2fe8731f-sd.m3u8?hdnts=exp=1753110914_acl=/f0493e1e16ac71f0bf9587c7371d0102/*_hmac=8fa153f98a28729e3b1cb42a36086f08e2fcedd7397b8446f26740a7f6546a5e
 
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 2" tvg-name="Conto da Aia-Temporada 2" group-title="Séries", Temporada 2 episódio 4
+https://akm-cdn-play-web.onfilom.com/400bec1d16ac71f0a56c5114c0db0102/64d26dc5f07b4612916f9f648a8e3b9f-b0b13b155429d3a9595d2563b2285a8f-sd.m3u8?hdnts=exp=1753106549_acl=/400bec1d16ac71f0a56c5114c0db0102/*_hmac=4433fbb587198e4f27980dbf2dbf65b03395a31d9928e65576565adfc5b0916d
 
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 2" tvg-name="Conto da Aia-Temporada 2" group-title="Séries", Temporada 2 episódio 5
+https://akm-cdn-play-web.onfilom.com/7087d61d16ac71f0bfdd2680f9ea0102/5d77c4dfe6654ca2a286faa4e3fb8831-c2c70256d72a240e1a4af0eaaf81ce4a-sd.m3u8?hdnts=exp=1753110914_acl=/7087d61d16ac71f0bfdd2680f9ea0102/*_hmac=cedd06dcd3f9f4d116bb2dc700441cc42a8ce95924891903f69aec039e268b23
+
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 2" tvg-name="Conto da Aia-Temporada 2" group-title="Séries", Temporada 2 episódio 6
+https://akm-cdn-play-web.onfilom.com/1020521e16ac71f0bff24177d1c00102/2808cd72e1de457ea1d4ef621daa0e57-f11f7151178304033bf6688e2acffbbd-sd.m3u8?hdnts=exp=1753125180_acl=/1020521e16ac71f0bff24177d1c00102/*_hmac=379dd28c1b1d7bf980b1cb4706ecf0e3337ae34eda9a933e38d984c2153c4c9c
+
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 2" tvg-name="Conto da Aia-Temporada 2" group-title="Séries", Temporada 2 episódio 7
+https://akm-cdn-play-web.onfilom.com/c005b10016ad71f0a56c5114c0db0102/e1239ab1039b4a46ac74cbe3da25aa48-5b8e92c69f3f2f8e05fabf309cddc669-sd.m3u8?hdnts=exp=1753125202_acl=/c005b10016ad71f0a56c5114c0db0102/*_hmac=c9289fbc52121001d5aa93364631e0ad2f28d349a73cb2d906763403839b10af
+
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 2" tvg-name="Conto da Aia-Temporada 2" group-title="Séries", Temporada 2 episódio 8
+https://akm-cdn-play-web.onfilom.com/30da648f16ad71f0a56c5114c0db0102/a05572f4434541739f49022ee2bf1fd7-c3b9483790e8c09b4e203b5b800f23e7-sd.m3u8?hdnts=exp=1753116332_acl=/30da648f16ad71f0a56c5114c0db0102/*_hmac=06e281965e3f30d4c22260311a411c77df934d964d08a265add999325ff5c98f
+
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 2" tvg-name="Conto da Aia-Temporada 2" group-title="Séries", Temporada 2 episódio 9
+https://akm-cdn-play-web.onfilom.com/800e688f16ad71f0bff24177d1c00102/7564c0e9fd8642aa87413ef0c688c9a6-b50ee0b46796bb9c0726d7fd612398ec-sd.m3u8?hdnts=exp=1753116343_acl=/800e688f16ad71f0bff24177d1c00102/*_hmac=86c79e2bc4595eb7839210c0cee85521a1f1e102bf07b9052488ba71ba942c33
+
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 2" tvg-name="Conto da Aia-Temporada 2" group-title="Séries", Temporada 2 episódio 10
+https://akm-cdn-play-web.onfilom.com/203e79ae16ad71f0bff24177d1c00102/c85762c639034addbbeac056d8c66584-100f1656306d8be6b90e507796ecdeb9-sd.m3u8?hdnts=exp=1753116354_acl=/203e79ae16ad71f0bff24177d1c00102/*_hmac=4ce6b0fd922ae7e92e63b688555a4b8244c8d23704f42433db426462e745dfd9
+
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 2" tvg-name="Conto da Aia-Temporada 2" group-title="Séries", Temporada 2 episódio 11
+https://akm-cdn-play-web.onfilom.com/e0cfcfba16ad71f0bfc436a5e8aa0102/504d41e24f5f43f1a153e3f1d201f841-54daced1fe032bdd739c18f99775d900-sd.m3u8?hdnts=exp=1753116365_acl=/e0cfcfba16ad71f0bfc436a5e8aa0102/*_hmac=edecd9d9ec82cf2a6b2fdcd63d555e28e1defa785b019cb6d85727ec23049bd0
+
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 2" tvg-name="Conto da Aia-Temporada 2" group-title="Séries", Temporada 2 episódio 12
+https://akm-cdn-play-web.onfilom.com/003a5abf16ad71f096195014c1ca0102/bf7e3fa4d14e423a8f27d71c9068f82d-98122f94c5752ed48d78a241f637984b-sd.m3u8?hdnts=exp=1753116378_acl=/003a5abf16ad71f096195014c1ca0102/*_hmac=14b0e870e2235d5a3f8e58b19fbae367523a7e21f630a61ab79cc60ee1b74383
+
+#EXTINF:-1 tvg-id="Conto da Aia-Temporada 2" tvg-name="Conto da Aia-Temporada 2" group-title="Séries", Temporada 2 episódio 13
+https://akm-cdn-play-web.onfilom.com/a044377d16ae71f0bfc436a5e8aa0102/5d382e5337c24b8292f663499ba66d68-150b58e79df2217639a4400b6127adb1-sd.m3u8?hdnts=exp=1753116391_acl=/a044377d16ae71f0bfc436a5e8aa0102/*_hmac=607cadf2454f89e94e46d7f3bbb00362b660e55b6474cee76bc8e3f8a81d106e
 
