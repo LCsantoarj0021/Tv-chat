@@ -30,8 +30,8 @@ http://jovempan.radiocaixas.com.br:8000/live
 # Filmes
 #######################
 
-#EXTINF:-1 tvg-id="filmex" tvg-name="FilmBox" group-title="Filmes",FilmBox (Cinema)
-https://filmboxtv.akamaized.net/filmbox/filmbox.m3u8
+#EXTINF:-1 tvg-id="filmex" tvg-name="FilmBox" group-title="Filmes",Como Treinar o Seu Dragão 2025 filme (Cinema)
+https://akm-cdn-play-web.onfilom.com/402af3c747ff71f0bfa287c7361c0102/c6c7aa6f8d454ebdb591420b4737dc0e-e948e1141782f556e0c6d43b68734f15-sd.m3u8?hdnts=exp=1753122856_acl=/402af3c747ff71f0bfa287c7361c0102/*_hmac=a35844ecdb4185aeafbf6e0384a85cf895b69faacdba89a2113429d6dbe1fc62
 
 #EXTINF:-1 tvg-id="movies24" tvg-name="Movies24" group-title="Filmes",Movies24 (Cinema)
 https://movies24.akamaized.net/movies24/movies24.m3u8
