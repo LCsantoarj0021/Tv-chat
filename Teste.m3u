@@ -47,8 +47,42 @@ https://cwseed-lh.akamaihd.net/i/cwseed_1@123456/master.m3u8
 https://netflix.com/stream/playlist.m3u8
 
 #######################
-# Séries
+# Conto da Aia-Temporada 1
 #######################
 
-#EXTINF:-1 tvg-id="series1" tvg-name="CW Seed" group-title="Séries",CW Seed (Séries e Shows)
-https://cwseed-lh.
+#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 1
+https://akm-cdn-play-web.onfilom.com/20790e6916a071f0904c4177d1c10102/43d475b7659d48ae96a152039fc4ba1c-2f3b1cbeefd84d79a3d909c169afb3b7-sd.m3u8?hdnts=exp=1753122832_acl=/20790e6916a071f0904c4177d1c10102/*_hmac=219733a5853a7fa920bd54b19cbd693d952701dad7abed32b1559003f922bbce
+
+#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 2
+https://akm-cdn-play-web.onfilom.com/50a4446916a071f0a56c5114c0db0102/6aed2bfd40f64d25924fde1d7ffacccc-945a743297812c12fec9cbad58eb5cf9-sd.m3u8?hdnts=exp=1753125145_acl=/50a4446916a071f0a56c5114c0db0102/*_hmac=6494f7c64a7924fc6aec8d93dfa5cd86eeff004f25f23797b09331dcc01ce28c
+
+#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 3
+https://akm-cdn-play-web.onfilom.com/905ced6816a071f0bfaf87c7361c0102/a8729e637cb74385a807af6b480813e5-ea315e45091f08908f384e8db11e8fb6-sd.m3u8?hdnts=exp=1753123733_acl=/905ced6816a071f0bfaf87c7361c0102/*_hmac=b1f5c801d21667bffe432549d11d0eb11f20f4a25ea2087877fd6a123a735eb4
+
+#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 4
+https://akm-cdn-play-web.onfilom.com/001be76816a071f0800386c6360c0102/75a06dd33e43449da0892eba79b9016f-c211eacd8d0b0aa7a265f5213074855f-sd.m3u8?hdnts=exp=1753105701_acl=/001be76816a071f0800386c6360c0102/*_hmac=80f569773d3c690d61a86b66ec611a9193132b8b6769bbffe70d80a94d0047e4
+
+#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 5
+https://akm-cdn-play-web.onfilom.com/c00de46816a071f0bf9587c7371d0102/82c0fcd0bea44c2aaab933e4ac2ae8e7-0077ceaf9b2a349a58b1eb1d95ad4edc-sd.m3u8?hdnts=exp=1753084597_acl=/c00de46816a071f0bf9587c7371d0102/*_hmac=ea8bfda50d43e8d80506d9953a5e9f763579ec318af88d137a7360655a410aaa
+
+#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 6
+https://akm-cdn-play-web.onfilom.com/805ad26816a071f0800386c6360c0102/7c346c370fdd497d98cfff80e3183db5-85e7bb5d5e334ad827b315be69d2f259-sd.m3u8?hdnts=exp=1753109930_acl=/805ad26816a071f0800386c6360c0102/*_hmac=8d47ef72c230c59cbb432df35583d2384cdd96415242f038b808d056c53328ad
+
+#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 7
+https://akm-cdn-play-web.onfilom.com/6007efbc16a271f0bfc436a5e8aa0102/9bf32759ba3a4cc9ab8daac82d4376cf-3e001c96142b8041fd3daf851e684130-sd.m3u8?hdnts=exp=1753113135_acl=/6007efbc16a271f0bfc436a5e8aa0102/*_hmac=69edc27ca6782c38abe3a3d60e995684108fc8f50aaef484dfdb76482fe604c8
+
+#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 8
+https://akm-cdn-play-web.onfilom.com/902eb4c816a271f0bff24177d1c00102/451974a08b76450cb9ac030602e26875-becbeb1b6f8cab7cbdc5da7402779ba7-sd.m3u8?hdnts=exp=1753107123_acl=/902eb4c816a271f0bff24177d1c00102/*_hmac=e264105724be3e859a23616816b7dea09f1425eb0b5070543cfdca1b10d75957
+
+#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 9
+https://akm-cdn-play-web.onfilom.com/00baf4c816a271f0bfbb87c6371c0102/9fdc753e355c4798a22d72ad65bcd49d-6d23d1fd824a8ac8b656eab02a2ef1bb-sd.m3u8?hdnts=exp=1753108613_acl=/00baf4c816a271f0bfbb87c6371c0102/*_hmac=e17d384953570d0bd33eca8debbd0e2fbfc86307763d878c219e0c4ed03974de
+
+#EXTINF:-1 tvg-id="series1" tvg-name="Conto da Aia-Temporada 1" group-title="Séries", Temporada 1 episódio 10
+https://akm-cdn-play-web.onfilom.com/a0b93de016a271f0bfaf87c7361c0102/6eef10fcbe0041bdba6130cc2e2ba671-906b38588677fc8fd398621ba1316827-sd.m3u8?hdnts=exp=1753111802_acl=/a0b93de016a271f0bfaf87c7361c0102/*_hmac=08438722ee7e95ee76ff6a7350bc675cc39f271913c1654337df358412d42011
+
+
+
+
+
+
+
