@@ -26,7 +26,7 @@ https://media-hls.doppiocdn.org/b-hls-02/34437295/34437295_720p.m3u8?playlistTyp
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/f/0/5f0e2b684d1a745d3eb464c3fe6b0266-full" group-title="Stripchat", AgathaBladee
 https://media-hls.doppiocdn.org/b-hls-13/189295697/189295697_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/f/e/9/fe9ee09d8e0c8a2b7a22a8583423a614-full" group-title="Stripchat", BigFineSelena
-https://media-hls.doppiocdn.org/b-hls-27/82653353/82653353_960p.m3u8?playlistType=lowLatency
+https://edge-hls.doppiocdn.org/hls/82653353/master/82653353_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/intro/1/7/2/172b355eee3a23b17981d10f2cf198ec" group-title="Stripchat", Zoey_it
 https://edge-hls.doppiocdn.org/hls/152065559/master/152065559_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/5/e/95efb17f1296f84558a77167e9dab983-full" group-title="Stripchat", Luhma_hot
